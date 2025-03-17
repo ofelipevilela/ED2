@@ -1,3 +1,7 @@
+# CODIGO PARA COMIPILAR:
+1 - g++ -o programa main.cpp tabelahash.cpp buscador.cpp compressor.cpp registro.cpp
+2 - ./programa
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/dy7ODgq8)
 # Atividade sobre Processamento de Cadeia de Caracteres
 
